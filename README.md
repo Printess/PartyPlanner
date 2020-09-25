@@ -1,2 +1,2 @@
-# PartyPlanner
-Party Planning
+# partyplanner
+ Partyplanner
